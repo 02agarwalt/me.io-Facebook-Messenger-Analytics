@@ -76,17 +76,17 @@ The last screenshot below shows the about page and also our dropdown menu for us
 ![figure 11]
 
 
-[figure_1]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig1.png
-[figure_2]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig2.png
-[figure_3]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig3.png
-[figure_4]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig4.png
-[figure_5]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig5.png
-[figure_6]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig6.png
-[figure_7]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig7.png
-[figure 8]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig8.png
-[figure 9]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig9.png
-[figure 10]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig10.png
-[figure 11]: https://github.com/jhu-oose/2017-group-1/blob/master/img/iteration_6/fig11.png
+[figure_1]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig1.png
+[figure_2]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig2.png
+[figure_3]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig3.png
+[figure_4]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig4.png
+[figure_5]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig5.png
+[figure_6]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig6.png
+[figure_7]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig7.png
+[figure 8]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig8.png
+[figure 9]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig9.png
+[figure 10]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig10.png
+[figure 11]: https://github.com/02agarwalt/me.io-Facebook-Messenger-Analytics/blob/master/img/iteration_6/fig11.png
 
 DISCLAIMER: There is a memory cap in Docker on Mac OSX that may cause our program to crash unexpectedly. To ensure this doesn't happen, go to "Preferences..." in the Docker GUI and click "Advanced." Then, set the "Memory" slider to the maximum supported by your computer (8GB or more is recommended). 
 
