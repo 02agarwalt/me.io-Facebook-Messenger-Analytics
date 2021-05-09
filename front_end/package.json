@@ -30,7 +30,7 @@
     "body-parser": "^1.18.2",
     "d3-format": "^1.2.1",
     "express": "^4.16.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.21",
     "pondjs": "^0.8.7",
     "react": "^0.14.9",
     "react-axios": "^2.0.0",
